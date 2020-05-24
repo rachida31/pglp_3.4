@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.18">
+<file name="/home/rachida/Bureau/rachida/folders/rachidaM1info/S2/GL/TD/pglp_3.4/Exo3_4/src/main/java/uvsq/M1/td1/Exo3_4/SimplePrinterFax.java">
+<error line="0" severity="error" message="Missing package-info.java file." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocPackageCheck"/>
+</file>
+<file name="/home/rachida/Bureau/rachida/folders/rachidaM1info/S2/GL/TD/pglp_3.4/Exo3_4/src/main/java/uvsq/M1/td1/Exo3_4/App.java">
+</file>
+</checkstyle>
